@@ -1,8 +1,8 @@
 👋 Hello, I'm Fakhri Elifa from Tunisia! 🇹🇳
 
-🎓 I'm a recent graduate of ISET Sfax, where I earned my Applied Bachelor's Degree in Computer Technology in 2022. 🎓
+🎓 I earned my Applied Bachelor's Degree in Computer Technology in 2022. 🎓
 
-🌟 Currently, I'm embarking on a new journey as I pursue my Master's Degree in Computer Science at ISIM Sfax, starting in 2023. 🚀
+🌟 Currently, I'm embarking on a new journey as I pursue my Master's Degree in Computer Science 
 - 🔭 I’m currently working on **ecommerce website**
 
 - 🌱 I’m currently learning **sass ,webpack , python**
