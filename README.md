@@ -2,7 +2,7 @@
 
 🎓 I earned my Applied Bachelor's Degree in Computer Technology in 2022. 🎓
 
-🌟 Currently, I'm embarking on a new journey as I pursue my Master's Degree in Computer Science 
+🎓 I earned my  Master degree in computer science in 2025 🎓
 - 🔭 I’m currently working on **ecommerce website**
 
 - 🌱 I’m currently learning **sass ,webpack , python**
