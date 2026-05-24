@@ -5,9 +5,9 @@
 🎓 I earned my  Master degree in computer science in 2025 🎓
 - 🔭 I’m currently working on **ecommerce website**
 
-- 🌱 I’m currently learning **sass ,webpack , python**
+- 🌱 I’m currently learning **pytorch ,opencv , flask**
 
-- 💬 Ask me about **angular , javascript , node js , jquery , css3**
+- 💬 Ask me about **angular , javascript , node js , python**
 
 - 📫 How to reach me **ifafakri@gmail.com**
 
